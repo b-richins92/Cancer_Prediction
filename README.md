@@ -12,7 +12,7 @@ URL for the Dataset:
 
 https://www.cdc.gov/brfss/annual_data/annual_2022.html
 
-We have also include a 100 sample df.
+We have also included a 100 sample df and a CDC codebook to interpret the dataset.
 
 Note: the pickled models in the Github must be tested with the unstandardized datasets because they are Pipeline objects that transform the incoming data.
 
